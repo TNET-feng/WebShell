@@ -1,1 +1,1 @@
-Looking for tools, please see [Script](https://github.com/TNET-feng/script)
+Looking for tools, please see [Script](https://github.com/FengPwner/script)
